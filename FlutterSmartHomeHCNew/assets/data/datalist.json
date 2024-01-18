@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "Phòng khách",
+      "trangthai": "Trạng thái",
+      "thietbi": "Đèn",
+      "canhbao":"Cảnh báo",
+      "giaitri":"Giải trí"
+    },
+    {
+      "id": "Phòng học",
+      "trangthai": "Trạng thái",
+      "thietbi": "Đèn",
+      "canhbao":"Cảnh báo",
+      "giaitri":"Giải trí"
+    },
+    {
+      "id": "Phòng ngủ 1",
+      "trangthai": "Trạng thái",
+      "thietbi": "Đèn",
+      "canhbao":"Cảnh báo",
+      "giaitri":"Giải trí"
+    },
+    {
+      "id": "Phòng ngủ 2",
+      "trangthai": "Trạng thái",
+      "thietbi": "Đèn",
+      "canhbao":"Cảnh báo",
+      "giaitri":"Giải trí"
+    },
+    {
+      "id": "Phòng WC",
+      "trangthai": "Trạng thái",
+      "thietbi": "Đèn",
+      "canhbao":"Cảnh báo",
+      "giaitri":"Giải trí"
+    }
+  ]
+
+}
